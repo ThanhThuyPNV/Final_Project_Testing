@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can login with an email in uppercase</description>
+   <name>LG_14</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de54c7dc-07f3-41da-8c0a-f0bb2e9aff0a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>90e0d2f6-8691-4913-bd59-1b3b0f273feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-among.up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;return change_qty_detail('txtQty', 1)&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fe85ed83-0956-4dd4-8a8d-8913eff34f57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-among up</value>
+      <webElementGuid>ed1a46c4-b20f-4665-9d76-ba220ca37e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return change_qty_detail('txtQty', 1)</value>
+      <webElementGuid>0d778103-15b9-4f72-911b-c733bb9be909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                +</value>
+      <webElementGuid>bd0b1c24-105c-44eb-b15f-3f8c475aa549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_pageBody_pnlProdOffer&quot;)/div[@class=&quot;view-detail-product&quot;]/div[@class=&quot;Product-info-right-top&quot;]/div[@class=&quot;Product-summary&quot;]/div[@class=&quot;detail-info-spec among&quot;]/span[@class=&quot;info-spec-right&quot;]/table[@class=&quot;select-among&quot;]/tbody[1]/tr[1]/td[@class=&quot;input-group-btn&quot;]/button[@class=&quot;btn-among up&quot;]</value>
+      <webElementGuid>c707aca1-5bf5-4beb-a459-16190b166958</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;return change_qty_detail('txtQty', 1)&quot;]</value>
+      <webElementGuid>bb99fa5f-5ffb-418e-99cf-2ca167e7ef6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_pageBody_pnlProdOffer']/div/div[3]/div/div[8]/span[2]/table/tbody/tr/td[3]/button</value>
+      <webElementGuid>61713ee8-f2b9-4d39-9fe1-5b73b9a5c8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/button</value>
+      <webElementGuid>0f81c906-0cc8-41ce-8107-f2492b99af86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+                                                                +' or . = '
+                                                                +')]</value>
+      <webElementGuid>d5bc5685-af4e-462e-b923-14fe3f1b0f63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

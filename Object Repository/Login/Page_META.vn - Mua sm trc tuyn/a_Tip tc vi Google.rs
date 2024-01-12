@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tip tc vi Google</name>
+   <tag></tag>
+   <elementGuidId>937dc044-e72e-4642-bff8-4188370eb8a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.signin-openID.google.gg-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bc39d0bb-4cfb-4416-905c-72180400abb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signin-openID google gg-btn</value>
+      <webElementGuid>0ef23ba6-c67d-4f87-81fc-12633530e685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/social.aspx/google?url=/</value>
+      <webElementGuid>de513c52-0510-45df-9e43-99d29e027f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tiếp tục với Google</value>
+      <webElementGuid>47b0c3aa-13b9-453c-bcac-f5e1fb9fdea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center-m&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;wrap-redux&quot;]/div[@class=&quot;member-row&quot;]/div[@class=&quot;member-col member-right&quot;]/form[1]/a[@class=&quot;signin-openID google gg-btn&quot;]</value>
+      <webElementGuid>a531e4b5-b2bf-4ca9-bbcb-5a4681604575</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/a[4]</value>
+      <webElementGuid>4e12b6db-0a76-4591-a655-85c10e0b05cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/social.aspx/google?url=/')]</value>
+      <webElementGuid>b6a7adb1-e250-40c9-8aaa-9b5096e007e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>d008aa90-35fc-4711-ba29-199df86e4467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/social.aspx/google?url=/' and (text() = ' Tiếp tục với Google' or . = ' Tiếp tục với Google')]</value>
+      <webElementGuid>5f67674f-0adf-4bb4-8f23-d5c971e64f35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tr gp-15T lnh 4</name>
+   <tag></tag>
+   <elementGuidId>5a30808e-6770-4a2e-8306-cbcae8a66c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='catalog-fs']/div[2]/div/ul/li/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.lazy-holder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4353e82-90e9-4286-863f-81be6dd672d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lazy-holder</value>
+      <webElementGuid>52b437cd-fabd-4f6d-bf48-1f2095b36e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trả góp-15%Tủ lạnh 4 cánh Electrolux EQE6909A-BVN (622 lít)Electrolux27.900.000đ-15%32.990.000đKết thúc sau18 ngày Còn 1(14)27.900.000 đ32.990.000 đ</value>
+      <webElementGuid>4216c9c4-af26-43db-82db-99dac529a89a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;catalog-fs&quot;)/div[@class=&quot;cat-product-highlight&quot;]/div[@class=&quot;list-product-highlight spotlight-products&quot;]/ul[@class=&quot;product-highlight-wrap&quot;]/li[@class=&quot;product-highlight-item prod-item lazy-prod-item _list_ico_9331 _list_ico_10513&quot;]/div[@class=&quot;lazy-holder&quot;]</value>
+      <webElementGuid>86df4127-65ea-4572-84a9-94d6dca77c3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='catalog-fs']/div[2]/div/ul/li/div</value>
+      <webElementGuid>a9959046-6413-4730-9e6d-f3d5db03bee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/ul/li/div</value>
+      <webElementGuid>86af9c46-a04f-4ac0-b5ef-aaaf419702b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Trả góp-15%Tủ lạnh 4 cánh Electrolux EQE6909A-BVN (622 lít)Electrolux27.900.000đ-15%32.990.000đKết thúc sau18 ngày Còn 1(14)27.900.000 đ32.990.000 đ' or . = 'Trả góp-15%Tủ lạnh 4 cánh Electrolux EQE6909A-BVN (622 lít)Electrolux27.900.000đ-15%32.990.000đKết thúc sau18 ngày Còn 1(14)27.900.000 đ32.990.000 đ')]</value>
+      <webElementGuid>f8cb9dca-7ba1-471a-b981-a71993095d64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

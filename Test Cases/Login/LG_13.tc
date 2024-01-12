@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user cann't login with a phone number that contains leading/trailing spaces</description>
+   <name>LG_13</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4e25cf2-2181-446c-b050-0fae187f4d46</testCaseGuid>
+</TestCaseEntity>

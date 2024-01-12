@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Qun Sn Tr</name>
+   <tag></tag>
+   <elementGuidId>c6fff937-3276-4b07-8760-045e1439178b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addrEdit']/div[2]/div/div/div/ul/li[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>dc1fd03a-fa5a-4065-9d8e-35a12dab9bf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>li-item</value>
+      <webElementGuid>59eb4b58-a550-4d45-9047-51db57a6b8c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>500</value>
+      <webElementGuid>e2d90632-6f3e-44d9-a7aa-e9967d2c9995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quận Sơn Trà</value>
+      <webElementGuid>4780d122-53e1-4c58-8abb-92c366a03ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addrEdit&quot;)/div[@class=&quot;one-third column addr-item district-user&quot;]/div[@class=&quot;select large&quot;]/div[@class=&quot;list open&quot;]/div[@class=&quot;list-inner&quot;]/ul[@class=&quot;list-ul&quot;]/li[@class=&quot;li-item&quot;]</value>
+      <webElementGuid>8972e689-2615-4694-95ca-15efe8972ba6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addrEdit']/div[2]/div/div/div/ul/li[5]</value>
+      <webElementGuid>cc9199ab-fde6-40df-a3d9-fb961dee10d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[5]</value>
+      <webElementGuid>2d7d19e6-a80e-4b06-8087-24794ed596cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Quận Sơn Trà' or . = 'Quận Sơn Trà')]</value>
+      <webElementGuid>a2309adf-e6cd-4c22-aff1-58a1c74c408e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

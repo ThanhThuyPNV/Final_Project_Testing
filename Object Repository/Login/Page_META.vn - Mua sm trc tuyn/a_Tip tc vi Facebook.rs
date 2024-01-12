@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tip tc vi Facebook</name>
+   <tag></tag>
+   <elementGuidId>dd9fd73c-d871-4d88-9832-28813ec35930</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.signin-openID.facebook.fb-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dd128170-1bb7-46ee-97c0-06f7000007c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>signin-openID facebook fb-btn</value>
+      <webElementGuid>cceda8c1-4d0b-4ba2-9dbd-027947054a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/social.aspx/facebook?url=/</value>
+      <webElementGuid>0adee245-890c-43de-a997-3e83eab0b557</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tiếp tục với Facebook</value>
+      <webElementGuid>3bbd0332-4ddf-4758-a7fc-158b7fed9188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center-m&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;wrap-redux&quot;]/div[@class=&quot;member-row&quot;]/div[@class=&quot;member-col member-right&quot;]/form[1]/a[@class=&quot;signin-openID facebook fb-btn&quot;]</value>
+      <webElementGuid>4739074d-3b5c-4311-ba48-90b61ba5c737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/a[5]</value>
+      <webElementGuid>7c17109e-26d7-43e4-aa83-cdbd665786ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/social.aspx/facebook?url=/')]</value>
+      <webElementGuid>758154d1-0897-4829-a47c-75800e2eeaf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>1fb8ad2d-eee0-44ae-b156-222387770a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/social.aspx/facebook?url=/' and (text() = ' Tiếp tục với Facebook' or . = ' Tiếp tục với Facebook')]</value>
+      <webElementGuid>d260a4ed-5f3b-40cc-8773-6b247fdb5e93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Phng Phc M</name>
+   <tag></tag>
+   <elementGuidId>c8845b69-432d-4f1d-8782-73390c4d5779</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addrEdit']/div[3]/div/div/div/ul/li[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0e6fa5cf-4e5a-432b-bdec-ec727c1647c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>li-item</value>
+      <webElementGuid>9cba98b3-2e1c-49e7-9793-a880631795d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>7277</value>
+      <webElementGuid>952d7ab3-34f8-4573-859e-21658a1f0185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Phường Phước Mỹ</value>
+      <webElementGuid>5e2b4cec-a149-470f-a8ec-2796807d5174</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addrEdit&quot;)/div[@class=&quot;one-third column addr-item ward-user&quot;]/div[@class=&quot;select large&quot;]/div[@class=&quot;list open&quot;]/div[@class=&quot;list-inner&quot;]/ul[@class=&quot;list-ul&quot;]/li[@class=&quot;li-item&quot;]</value>
+      <webElementGuid>f1037274-dc46-4d3b-9306-a835b5ec361f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addrEdit']/div[3]/div/div/div/ul/li[6]</value>
+      <webElementGuid>624eb3a5-c61d-4491-84c1-6de308b8d9f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/ul/li[6]</value>
+      <webElementGuid>b43dcce2-975a-45d9-a631-7f6ad64688f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Phường Phước Mỹ' or . = 'Phường Phước Mỹ')]</value>
+      <webElementGuid>19b60433-dab1-4986-92e5-a6a8f6a18a28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

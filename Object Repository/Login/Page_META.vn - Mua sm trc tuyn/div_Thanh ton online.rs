@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thanh ton online</name>
+   <tag></tag>
+   <elementGuidId>f1f104eb-301a-4953-9d44-f3fe3b729e36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-choosen2']/div[2]/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5f00c99-8b9d-4408-834e-b5f37e380c2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-name</value>
+      <webElementGuid>405de840-a591-4052-8edb-cb4d12ac2350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán online</value>
+      <webElementGuid>255d3ec4-c80f-44ec-bc55-642c391a8522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-choosen2&quot;)/div[@class=&quot;options&quot;]/div[1]/div[@class=&quot;item&quot;]/div[@class=&quot;item-wrap&quot;]/div[@class=&quot;item-name&quot;]</value>
+      <webElementGuid>44e61205-34fa-4e6b-a936-efb210024ff8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-choosen2']/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>1e6250ab-1392-45e9-b5f1-a3bc3cd8df7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[3]/div/div</value>
+      <webElementGuid>8a632e77-0ea0-4829-b47f-a6ece5785f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thanh toán online' or . = 'Thanh toán online')]</value>
+      <webElementGuid>6bc0940b-cfa5-4c32-b00b-a63b200c0a3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

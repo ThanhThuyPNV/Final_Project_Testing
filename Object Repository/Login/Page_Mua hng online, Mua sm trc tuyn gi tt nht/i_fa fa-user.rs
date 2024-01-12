@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-user</name>
+   <tag></tag>
+   <elementGuidId>d2191bcf-fa59-41a2-b939-6d3eb199aead</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-user</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header-m']/div/div/div/div[2]/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5ac26933-7240-495a-ac73-d62b05fcd602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-user</value>
+      <webElementGuid>a425c797-bbcd-495c-98cd-2c98d071659a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f5966e93-b5b7-4aab-b695-c486ee6b2596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-m&quot;)/div[@class=&quot;box-header pos-relative&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;box-top-menu&quot;]/div[@class=&quot;block cart-and-account&quot;]/div[@class=&quot;notications-box&quot;]/div[@class=&quot;header-acc-btn&quot;]/div[@class=&quot;notica-link&quot;]/i[@class=&quot;fa fa-user&quot;]</value>
+      <webElementGuid>097080e7-83b1-4047-9dd2-817e80aeec51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header-m']/div/div/div/div[2]/div/div/div/i</value>
+      <webElementGuid>0ab5ce42-4795-41c5-9039-b3a295b886c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>673a9a85-967c-4490-8fe8-f48bbc721abf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

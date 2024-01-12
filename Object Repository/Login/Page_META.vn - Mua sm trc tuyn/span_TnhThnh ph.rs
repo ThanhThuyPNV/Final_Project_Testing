@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TnhThnh ph</name>
+   <tag></tag>
+   <elementGuidId>d19e6ac6-7896-400d-aea2-b4cf6125f1d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addrEdit']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fa8965e0-590d-4ff4-9b0c-f951b36f0029</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>value</value>
+      <webElementGuid>ea7a451f-fcbb-4ffa-91bb-3d4b07f0e255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tỉnh/Thành phố</value>
+      <webElementGuid>d2c2a066-cd11-4888-b069-8522b5ff097d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addrEdit&quot;)/div[@class=&quot;one-third column addr-item province-user&quot;]/div[@class=&quot;select large&quot;]/span[@class=&quot;value&quot;]</value>
+      <webElementGuid>0bb16a63-a15f-49af-9b11-63588ebb2418</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addrEdit']/div/div/span</value>
+      <webElementGuid>c433ad48-8090-46ee-90ef-caaf58f6d4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/span</value>
+      <webElementGuid>95f3cc82-2e81-40a7-aa7f-cc113c1353f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tỉnh/Thành phố' or . = 'Tỉnh/Thành phố')]</value>
+      <webElementGuid>9fa34bee-8c87-4d34-82c4-b154ccbb6df4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

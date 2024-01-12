@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user cann't login with invalid phone number and correct password</description>
+   <name>LG_08</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0e96cd4-3dea-4c55-96d0-261ade433ac4</testCaseGuid>
+</TestCaseEntity>

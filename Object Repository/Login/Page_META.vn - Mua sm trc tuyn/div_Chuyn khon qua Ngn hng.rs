@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Chuyn khon qua Ngn hng</name>
+   <tag></tag>
+   <elementGuidId>b0fe7342-fc76-450c-be58-22b030617905</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-choosen2']/div[2]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5726424e-9527-400c-9cbb-6a1b5b7dfd3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-name</value>
+      <webElementGuid>445dccfa-763b-4cd0-b436-c8aac6e521a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chuyển khoản qua Ngân hàng</value>
+      <webElementGuid>ee272943-6964-4cf8-8352-3f6623f5c5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-choosen2&quot;)/div[@class=&quot;options&quot;]/div[1]/div[@class=&quot;item&quot;]/div[@class=&quot;item-wrap&quot;]/div[@class=&quot;item-name&quot;]</value>
+      <webElementGuid>ac07888e-49b9-4705-a176-ff342b8cf1f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-choosen2']/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>beefd619-01d8-4202-a5a2-207204c4412b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/div</value>
+      <webElementGuid>5c613e4f-7270-4cab-98e4-d9c0e7b6c0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Chuyển khoản qua Ngân hàng' or . = 'Chuyển khoản qua Ngân hàng')]</value>
+      <webElementGuid>3f2dfba6-054d-4e53-ae80-c68c635c1e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

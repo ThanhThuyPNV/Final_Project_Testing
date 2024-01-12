@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_bank-logo bnpl-logo</name>
+   <tag></tag>
+   <elementGuidId>e61ac22b-1c3a-4d01-b490-a091f2e07cf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.bank-logo.bnpl-logo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-choosen2']/div[2]/div/div[4]/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e48a5cc4-e05d-402c-81bc-bcef916f8e1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bank-logo bnpl-logo</value>
+      <webElementGuid>67021a79-5a13-4d54-945a-4f70c842f57c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-choosen2&quot;)/div[@class=&quot;options&quot;]/div[1]/div[@class=&quot;item is-current&quot;]/div[@class=&quot;bank-list bnpl&quot;]/div[@class=&quot;bank-item bnpl selected&quot;]/div[@class=&quot;bank-desc&quot;]/span[@class=&quot;bank-logo bnpl-logo&quot;]</value>
+      <webElementGuid>70608caa-a556-4e98-af0c-54f274dc1e43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-choosen2']/div[2]/div/div[4]/div[2]/div/div/span</value>
+      <webElementGuid>40cbbfec-881e-474c-a194-932ee6784e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/span</value>
+      <webElementGuid>5c180471-4c89-4123-8294-667e38056f1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

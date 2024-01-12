@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_toggle-view show</name>
+   <tag></tag>
+   <elementGuidId>45ac7332-4895-47f7-a9ab-b4a3a46513a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.toggle-view.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53627afc-6898-49c7-87d6-202bb68d0cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle-view show</value>
+      <webElementGuid>e799e574-4da3-418c-9da3-d2b5c2907eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center-m&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;wrap-redux&quot;]/div[@class=&quot;member-row&quot;]/div[@class=&quot;member-col member-right&quot;]/form[1]/div[@class=&quot;form-outline&quot;]/span[@class=&quot;toggle-view show&quot;]</value>
+      <webElementGuid>5b111f37-d3e0-46a0-b9cb-d6d97485c2a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/div[3]/span</value>
+      <webElementGuid>5eb52bde-b608-42be-8a74-47e532162e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span</value>
+      <webElementGuid>493dd051-cc9d-4296-9be1-43e6ffec7354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
