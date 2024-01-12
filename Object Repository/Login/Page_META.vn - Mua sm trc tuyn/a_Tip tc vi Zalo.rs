@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tip tc vi Zalo</name>
+   <tag></tag>
+   <elementGuidId>88c43c5b-9cdb-43f2-a3f2-239c6eb42feb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f8cbebf4-6a1c-4e9f-894b-906967fb3669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-type-btn</value>
+      <webElementGuid>a3abafe8-ae9f-419b-b760-21f3b8412cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login/social.aspx/zalo?url=/</value>
+      <webElementGuid>ddf40a95-4934-4a04-abb8-f3d83dc37af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tiếp tục với Zalo</value>
+      <webElementGuid>2ce9e2ba-045c-4776-b413-65597e81800c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center-m&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;wrap-redux&quot;]/div[@class=&quot;member-row&quot;]/div[@class=&quot;member-col member-right&quot;]/form[1]/a[@class=&quot;login-type-btn&quot;]</value>
+      <webElementGuid>7d6eade5-5a62-45de-9e11-4edd53b42246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/a[3]</value>
+      <webElementGuid>a391a2e5-6828-4e1d-a010-553927e83f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login/social.aspx/zalo?url=/')]</value>
+      <webElementGuid>e968292f-7a83-4926-9dc0-120cab08f5fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>bc8b78f1-80d8-4d42-8474-d08b8c702f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login/social.aspx/zalo?url=/' and (text() = ' Tiếp tục với Zalo' or . = ' Tiếp tục với Zalo')]</value>
+      <webElementGuid>0079c40e-3e4c-470b-b420-de5390a563c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

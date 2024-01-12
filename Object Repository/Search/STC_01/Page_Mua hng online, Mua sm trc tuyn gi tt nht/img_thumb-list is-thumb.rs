@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_thumb-list is-thumb</name>
+   <tag></tag>
+   <elementGuidId>43a2d087-ad75-4eaf-a65f-f5b990c38bcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;p85627&quot;] > img.thumb-list.is-thumb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@class='product-highlight-item prod-item lazy-prod-item _list_ico_9483 _list_ico_10227']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9421d81a-529b-42fc-a436-cba02a6ec93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Máy nhào bột Gourmetmaxx SM-1504 (5 lít, 1.500W)</value>
+      <webElementGuid>60b59e6d-03ac-4110-bd6e-0c2641f75a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s.meta.com.vn/img/thumb.ashx/200x200x95/Data/image/2022/06/14/may-nhao-bot-gourmetmaxx-sm-1504-5-lit-1-500w-300.jpg</value>
+      <webElementGuid>b404043b-fa68-42cd-942c-453a93d7d8ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://s.meta.com.vn/img/thumb.ashx/200x200x95/Data/image/2022/06/14/may-nhao-bot-gourmetmaxx-sm-1504-5-lit-1-500w-300.jpg, https://s.meta.com.vn/img/thumb.ashx/300x300x95/Data/image/2022/06/14/may-nhao-bot-gourmetmaxx-sm-1504-5-lit-1-500w-300.jpg 1.5x, https://s.meta.com.vn/img/thumb.ashx/400x400x95/Data/image/2022/06/14/may-nhao-bot-gourmetmaxx-sm-1504-5-lit-1-500w-300.jpg 2x</value>
+      <webElementGuid>a250a7c9-421c-4150-aaf5-21478c2dc359</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>c496098f-83fa-46e4-83e5-8fc64d2d8475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>e84b06bc-ba85-4091-9753-2cbd6611b60e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thumb-list is-thumb</value>
+      <webElementGuid>0cf60d46-741d-4908-9b79-566f4e368a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0f2fe4e2813b46c1b4177e4324fd8a97&quot;)/div[@class=&quot;cat-product-highlight&quot;]/ul[@class=&quot;product-highlight-wrap&quot;]/li[@class=&quot;product-highlight-item prod-item lazy-prod-item&quot;]/div[@class=&quot;lazy-holder&quot;]/div[@class=&quot;prod-hl-thumb&quot;]/a[1]/img[@class=&quot;thumb-list is-thumb&quot;]</value>
+      <webElementGuid>67bbe075-1cb2-481c-b332-b69977a8433c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0f2fe4e2813b46c1b4177e4324fd8a97']/div[2]/ul/li[6]/div/div/a/img</value>
+      <webElementGuid>cf40df0f-a6d9-4ca6-b136-050e204056fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Máy nhào bột Gourmetmaxx SM-1504 (5 lít, 1.500W)']</value>
+      <webElementGuid>749f30a7-bea1-422f-9ba9-05f9d1598ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/div/div/a/img</value>
+      <webElementGuid>9c159806-9a2b-402f-9b27-627e42122421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Máy nhào bột Gourmetmaxx SM-1504 (5 lít, 1.500W)' and @src = 'https://s.meta.com.vn/img/thumb.ashx/200x200x95/Data/image/2022/06/14/may-nhao-bot-gourmetmaxx-sm-1504-5-lit-1-500w-300.jpg']</value>
+      <webElementGuid>d87955da-54cd-479b-b028-6d1dfa929b3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

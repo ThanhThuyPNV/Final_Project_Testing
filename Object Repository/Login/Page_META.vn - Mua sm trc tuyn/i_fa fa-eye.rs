@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-eye</name>
+   <tag></tag>
+   <elementGuidId>65863c69-1220-4ccf-92fe-66a89c16ffc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/div[3]/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c8f81230-cba9-42ef-94e2-efba2aa2c019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye</value>
+      <webElementGuid>e361d536-d8cc-45dd-938e-5f48d599a3b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;center-m&quot;)/div[@class=&quot;wrap&quot;]/div[@class=&quot;wrap-redux&quot;]/div[@class=&quot;member-row&quot;]/div[@class=&quot;member-col member-right&quot;]/form[1]/div[@class=&quot;form-outline&quot;]/span[@class=&quot;toggle-view show&quot;]/i[@class=&quot;fa fa-eye&quot;]</value>
+      <webElementGuid>0bf07d0d-a59e-4759-83f8-73dcdeead09d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='center-m']/div[2]/div/div/div[2]/form/div[3]/span/i</value>
+      <webElementGuid>d9bba886-cb5a-45a2-9115-5555edbd1939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span/i</value>
+      <webElementGuid>3bda792a-d4f5-4b4a-9972-7573fb27fadb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user cann't login with non-registered phone number and valid password</description>
+   <name>LG_11</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd744697-c474-4528-8c31-a62005d1d69b</testCaseGuid>
+</TestCaseEntity>

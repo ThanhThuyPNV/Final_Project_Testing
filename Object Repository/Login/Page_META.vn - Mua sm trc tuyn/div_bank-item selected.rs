@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_bank-item selected</name>
+   <tag></tag>
+   <elementGuidId>f1228e28-b982-4bcb-a9d6-78350191ba7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bank-item.selected</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-choosen2']/div[2]/div/div[2]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>796cb7a9-98b7-4977-9947-7eb58af0dd09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ngân hàng TMCP Kỹ thương Việt Nam</value>
+      <webElementGuid>4817f9c4-a2d1-4ac3-bf0e-cdf59b346467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bank-item selected</value>
+      <webElementGuid>667ee9cf-18db-4218-aefd-038f2afe764a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-choosen2&quot;)/div[@class=&quot;options&quot;]/div[1]/div[@class=&quot;item is-current&quot;]/div[@class=&quot;bank-list&quot;]/div[@class=&quot;bank-item selected&quot;]</value>
+      <webElementGuid>d23499a3-0abc-43ba-bf06-1f6b25a529ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-choosen2']/div[2]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>f4c226e5-6030-4ca2-9e4b-999a41b4e27d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div[2]/div[2]</value>
+      <webElementGuid>67ddca41-0a6e-4556-8538-4cbe9899081d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Ngân hàng TMCP Kỹ thương Việt Nam']</value>
+      <webElementGuid>93182a17-fe81-45bf-bdcb-6ebf5ef3e89f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

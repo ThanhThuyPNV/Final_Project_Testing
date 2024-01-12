@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng nhp_logo</name>
+   <tag></tag>
+   <elementGuidId>d9e710b8-20be-4bb7-a56c-0eaa3d0d12e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class='icon-home']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c0b3fa44-639e-48ee-9056-67cf9ddfbd0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo</value>
+      <webElementGuid>5186e86a-354b-42e2-9be7-dd31dede1c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>3b07c77c-0333-4266-8644-2a7aa7ce0b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Về trang chủ</value>
+      <webElementGuid>a4aa2930-28c9-4632-90ff-c77d9f01ef3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-m&quot;)/div[@class=&quot;box-header pos-relative&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;box-top-menu&quot;]/div[@class=&quot;block logo-m&quot;]/a[@class=&quot;logo&quot;]</value>
+      <webElementGuid>87d2d857-a848-422d-85b0-de5d0c0913b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header-m']/div/div/div/div/a</value>
+      <webElementGuid>a061fc4c-8eaf-416e-b941-e26239cd59a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[2]</value>
+      <webElementGuid>a6040fb6-4a46-4d88-90a2-04e9d5c39db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a</value>
+      <webElementGuid>2f421bbc-4d6e-49a2-a291-82be2adce1be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and @title = 'Về trang chủ']</value>
+      <webElementGuid>a43b6271-5cba-402f-b087-566e7b1bb14c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_H v TnS in thoia chTnhThnh phTnhThnh ph_d5854a</name>
+   <tag></tag>
+   <elementGuidId>27d8fe0b-8b96-4362-bfd3-72dfda4492e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.region.cust-info > div.region-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-info']/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4addb6c6-dfe1-499a-b0d7-8771806060e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>region-inner</value>
+      <webElementGuid>c8cde1ed-9964-4064-afe5-42e4e6ac1a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Họ và TênSố điện thoạiĐịa chỉTỉnh/Thành phốTỉnh/Thành phốHà NộiHồ Chí MinhĐà NẵngAn GiangBà Rịa - Vũng TàuBắc GiangBắc KạnBạc LiêuBắc NinhBến TreBình ĐịnhBình DươngBình PhướcBình ThuậnCà MauCần ThơCao BằngĐăk LăkĐăk NôngĐiện BiênĐồng NaiĐồng ThápGia LaiHà GiangHà NamHà TĩnhHải DươngHải PhòngHậu GiangHòa BìnhHưng YênKhánh HòaKiên GiangKon TumLai ChâuLâm ĐồngLạng SơnLào CaiLong AnNam ĐịnhNghệ AnNinh BìnhNinh ThuậnPhú ThọPhú YênQuảng BìnhQuảng NamQuảng NgãiQuảng NinhQuảng TrịSóc TrăngSơn LaTây NinhThái BìnhThái NguyênThanh HóaThừa Thiên HuếTiền GiangTrà VinhTuyên QuangVĩnh LongVĩnh PhúcYên Bái ĐóngQuận/Huyện/Thị XãQuận/Huyện/Thị Xã ĐóngPhường/Xã/Thị trấnPhường/Xã/Thị trấn ĐóngGọi người khác nhận hàng (nếu có)Hình thức thanh toán (Nhấn để chọn)Giao hàng và thu tiền tại nhà (COD)Chuyển khoản qua Ngân hàngChọn ngân hàng để nhận thông tin chuyển khoản gửi đến số điện thoại.Thanh toán onlineThanh toán qua thẻ visa, mã QR, ví điện tử Apple Pay, Zalo Pay... Quý khách chọn cổng thanh toán muốn sử dụng.Mua trước trả sau - BNPLYêu cầu META xuất hóa đơnNhập email để theo dõi đơn hàngGửi đơn hàng</value>
+      <webElementGuid>348dda08-1b89-499b-aa33-7fd0c566468f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-info&quot;)/div[@class=&quot;container wrap-checkout&quot;]/div[@class=&quot;checkout-inner&quot;]/div[@class=&quot;region cust-info&quot;]/div[@class=&quot;region-inner&quot;]</value>
+      <webElementGuid>a9ecc7a5-9119-40f4-a778-87f446c85d74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-info']/div/div/div[2]/div[2]</value>
+      <webElementGuid>a89cfa1e-24ba-4cb9-9356-0404665ac2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>c1daf622-bc43-4de4-8395-740f9c9989a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Họ và TênSố điện thoạiĐịa chỉTỉnh/Thành phốTỉnh/Thành phốHà NộiHồ Chí MinhĐà NẵngAn GiangBà Rịa - Vũng TàuBắc GiangBắc KạnBạc LiêuBắc NinhBến TreBình ĐịnhBình DươngBình PhướcBình ThuậnCà MauCần ThơCao BằngĐăk LăkĐăk NôngĐiện BiênĐồng NaiĐồng ThápGia LaiHà GiangHà NamHà TĩnhHải DươngHải PhòngHậu GiangHòa BìnhHưng YênKhánh HòaKiên GiangKon TumLai ChâuLâm ĐồngLạng SơnLào CaiLong AnNam ĐịnhNghệ AnNinh BìnhNinh ThuậnPhú ThọPhú YênQuảng BìnhQuảng NamQuảng NgãiQuảng NinhQuảng TrịSóc TrăngSơn LaTây NinhThái BìnhThái NguyênThanh HóaThừa Thiên HuếTiền GiangTrà VinhTuyên QuangVĩnh LongVĩnh PhúcYên Bái ĐóngQuận/Huyện/Thị XãQuận/Huyện/Thị Xã ĐóngPhường/Xã/Thị trấnPhường/Xã/Thị trấn ĐóngGọi người khác nhận hàng (nếu có)Hình thức thanh toán (Nhấn để chọn)Giao hàng và thu tiền tại nhà (COD)Chuyển khoản qua Ngân hàngChọn ngân hàng để nhận thông tin chuyển khoản gửi đến số điện thoại.Thanh toán onlineThanh toán qua thẻ visa, mã QR, ví điện tử Apple Pay, Zalo Pay... Quý khách chọn cổng thanh toán muốn sử dụng.Mua trước trả sau - BNPLYêu cầu META xuất hóa đơnNhập email để theo dõi đơn hàngGửi đơn hàng' or . = 'Họ và TênSố điện thoạiĐịa chỉTỉnh/Thành phốTỉnh/Thành phốHà NộiHồ Chí MinhĐà NẵngAn GiangBà Rịa - Vũng TàuBắc GiangBắc KạnBạc LiêuBắc NinhBến TreBình ĐịnhBình DươngBình PhướcBình ThuậnCà MauCần ThơCao BằngĐăk LăkĐăk NôngĐiện BiênĐồng NaiĐồng ThápGia LaiHà GiangHà NamHà TĩnhHải DươngHải PhòngHậu GiangHòa BìnhHưng YênKhánh HòaKiên GiangKon TumLai ChâuLâm ĐồngLạng SơnLào CaiLong AnNam ĐịnhNghệ AnNinh BìnhNinh ThuậnPhú ThọPhú YênQuảng BìnhQuảng NamQuảng NgãiQuảng NinhQuảng TrịSóc TrăngSơn LaTây NinhThái BìnhThái NguyênThanh HóaThừa Thiên HuếTiền GiangTrà VinhTuyên QuangVĩnh LongVĩnh PhúcYên Bái ĐóngQuận/Huyện/Thị XãQuận/Huyện/Thị Xã ĐóngPhường/Xã/Thị trấnPhường/Xã/Thị trấn ĐóngGọi người khác nhận hàng (nếu có)Hình thức thanh toán (Nhấn để chọn)Giao hàng và thu tiền tại nhà (COD)Chuyển khoản qua Ngân hàngChọn ngân hàng để nhận thông tin chuyển khoản gửi đến số điện thoại.Thanh toán onlineThanh toán qua thẻ visa, mã QR, ví điện tử Apple Pay, Zalo Pay... Quý khách chọn cổng thanh toán muốn sử dụng.Mua trước trả sau - BNPLYêu cầu META xuất hóa đơnNhập email để theo dõi đơn hàngGửi đơn hàng')]</value>
+      <webElementGuid>2a1e2781-c3b3-4781-a3ad-da50ca63cc0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

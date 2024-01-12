@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-shopping-cart</name>
+   <tag></tag>
+   <elementGuidId>109fe361-9b22-459c-ba2f-a507e6a43272</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-shopping-cart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header-m']/div/div/div/div[2]/div[2]/a/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>96a7f291-daf3-4929-9d03-337fb345b37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-shopping-cart</value>
+      <webElementGuid>4eb8fc14-01bf-4603-8b70-0ca61d8099d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7e1d8e7f-c0ed-4f85-b7a2-3f448e0e5e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-m&quot;)/div[@class=&quot;box-header pos-relative&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;box-top-menu&quot;]/div[@class=&quot;block cart-and-account&quot;]/div[@class=&quot;cart-box&quot;]/a[@class=&quot;popup-cart-lnk&quot;]/div[@class=&quot;cart-link&quot;]/i[@class=&quot;fa fa-shopping-cart&quot;]</value>
+      <webElementGuid>8ccaab89-c6f1-4b17-8b96-1e2edc30bf9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header-m']/div/div/div/div[2]/div[2]/a/div/i</value>
+      <webElementGuid>0d5821c6-5ad0-4804-9ee6-9b8d586f4585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/i</value>
+      <webElementGuid>e6f81a4b-49e0-4e2d-8db9-ead2d22f3771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

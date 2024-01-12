@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_QunHuynTh X</name>
+   <tag></tag>
+   <elementGuidId>1c87e808-5d24-46a2-a818-4147f38e6457</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.one-third.column.addr-item.district-user > div.select.large > span.value</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addrEdit']/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>738bc1a3-37d0-4a68-8323-5ffba9df0e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>value</value>
+      <webElementGuid>5da994e5-1785-40df-8ae5-ac54579910c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quận/Huyện/Thị Xã</value>
+      <webElementGuid>cd3cb69d-4d44-404e-a72f-300c523c78b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addrEdit&quot;)/div[@class=&quot;one-third column addr-item district-user&quot;]/div[@class=&quot;select large&quot;]/span[@class=&quot;value&quot;]</value>
+      <webElementGuid>5f2abae7-b46c-47ae-b6ca-28d448ad90aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='addrEdit']/div[2]/div/span</value>
+      <webElementGuid>d4c8c3ca-07f8-4431-aa6d-82bead848951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span</value>
+      <webElementGuid>37d673c9-7884-4590-8bea-34f51889f051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quận/Huyện/Thị Xã' or . = 'Quận/Huyện/Thị Xã')]</value>
+      <webElementGuid>dfc7514b-b12d-4dd0-b2c4-8eab65fd4679</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

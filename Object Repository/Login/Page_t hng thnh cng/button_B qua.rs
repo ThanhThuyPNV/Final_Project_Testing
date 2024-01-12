@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_B qua</name>
+   <tag></tag>
+   <elementGuidId>6a106983-7fc6-462a-bba7-332986d4ee63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.anno-btn.anno-btn-low-importance</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_pageBody_pnlInfo']/div/div/div[3]/div/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc8f80de-9046-4fc8-9f46-998ee020fb1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anno-btn anno-btn-low-importance</value>
+      <webElementGuid>f6af8d98-0a96-40a6-a9f6-fcabadc8aa40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bỏ qua</value>
+      <webElementGuid>b5bd01a9-733c-48bb-9a66-763269966dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_pageBody_pnlInfo&quot;)/div[@class=&quot;wrap-checkout step3&quot;]/div[@class=&quot;complete-order-left&quot;]/div[@class=&quot;anno  anno-target-center-top&quot;]/div[@class=&quot;anno-inner&quot;]/div[@class=&quot;anno-btn-container&quot;]/button[@class=&quot;anno-btn anno-btn-low-importance&quot;]</value>
+      <webElementGuid>48f5474b-2b0d-4810-9625-99f8e3f9f1d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_pageBody_pnlInfo']/div/div/div[3]/div/div[3]/button[2]</value>
+      <webElementGuid>fa55cc29-a0df-423e-a584-4b0fbb7191a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>245a25af-17e3-4549-9903-ec37a14ce7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Bỏ qua' or . = 'Bỏ qua')]</value>
+      <webElementGuid>922eb129-d2b4-40d0-8753-704b893a4295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can login with valid email and password</description>
+   <name>LG_01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6d6172f-1f21-418b-bf78-a8b65ef89dbb</testCaseGuid>
+</TestCaseEntity>

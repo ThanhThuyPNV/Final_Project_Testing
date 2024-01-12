@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mua trc tr sau - BNPL</name>
+   <tag></tag>
+   <elementGuidId>56323d02-cdb7-46c2-881b-b8e863b9a8fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='payment-choosen2']/div[2]/div/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1aeb61c-8bc4-414b-9b15-b285f48593f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-name empty-desc1</value>
+      <webElementGuid>fffddd32-de1e-4056-9411-38002dea7168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mua trước trả sau - BNPL</value>
+      <webElementGuid>eb601135-4118-45bc-8a8e-f027ae0ed788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-choosen2&quot;)/div[@class=&quot;options&quot;]/div[1]/div[@class=&quot;item&quot;]/div[@class=&quot;item-wrap&quot;]/div[@class=&quot;item-name empty-desc1&quot;]</value>
+      <webElementGuid>2b53128b-6209-40ec-919b-7f9ff8850630</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='payment-choosen2']/div[2]/div/div[4]/div/div</value>
+      <webElementGuid>79267d94-aa41-4dae-89cd-d05397371a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div</value>
+      <webElementGuid>b878f9ae-911a-441a-a61b-5eceb01e7fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mua trước trả sau - BNPL' or . = 'Mua trước trả sau - BNPL')]</value>
+      <webElementGuid>831e6194-869a-4a1d-9e8c-6f4140511cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
