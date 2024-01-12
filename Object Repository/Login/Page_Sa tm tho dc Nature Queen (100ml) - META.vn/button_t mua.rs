@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-buy-prod']</value>
+         <value>//a[normalize-space()='Mua ngay']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0b9a6838-4d46-4cc9-8b9a-9938a38b5587</webElementGuid>
+      <webElementGuid>d68e0493-4f67-433e-87ae-e2e109bce422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>23b4b955-07c6-4738-8931-8f096afd5add</webElementGuid>
+      <webElementGuid>95f3b38a-2462-4182-8c8a-82df4bdce32e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-shopp-manual btn-buy btn-order button-buy </value>
-      <webElementGuid>f0196a57-e6de-4e82-bbf8-9ce061e4da82</webElementGuid>
+      <webElementGuid>dc7e07d2-9683-4eb3-83ff-1b460160dde3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-buy-prod</value>
-      <webElementGuid>3cb57efe-84d0-4ee5-bffb-175b0cb67826</webElementGuid>
+      <webElementGuid>21ca6a7d-cf22-4566-9b91-56008fe22878</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-tips</name>
       <type>Main</type>
       <value>Giao hàng toàn quốc</value>
-      <webElementGuid>f1e7700f-a01d-48dc-bd0f-8d9405724f47</webElementGuid>
+      <webElementGuid>2ef9bcf5-d694-44cc-b196-0dafd5660aa3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -67,7 +67,7 @@
                                                 Đặt mua
                                             
                                         </value>
-      <webElementGuid>cdfa6141-87db-439d-bdc3-e4b7d9a8b0e6</webElementGuid>
+      <webElementGuid>b92964bb-e5db-400a-9b62-0b05c7a8317d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -75,7 +75,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-buy-prod&quot;)</value>
-      <webElementGuid>727f2b17-197a-4e47-a823-42e36fdb3f93</webElementGuid>
+      <webElementGuid>e867d43d-e857-4f05-bee0-b09e97bf7764</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -83,7 +83,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-buy-prod']</value>
-      <webElementGuid>a3df5070-cfd9-44ec-b7bd-255beda522c0</webElementGuid>
+      <webElementGuid>f3296a9e-248b-4c12-b36d-0ef591aabf8e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +91,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ctl00_pageBody_pnlProdOffer']/div/div[3]/div[2]/div/button</value>
-      <webElementGuid>270a4b0d-d9d3-4eea-9b02-a14da998b10c</webElementGuid>
+      <webElementGuid>76685318-1aaa-4701-a82e-f6519d08dcc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,7 +99,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/div/button</value>
-      <webElementGuid>a63b350c-b87b-49c4-b69d-04eba33cccd4</webElementGuid>
+      <webElementGuid>38fb3435-7719-42ac-8033-b91da7459330</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
                                                 Đặt mua
                                             
                                         ')]</value>
-      <webElementGuid>19699459-c6c0-44ed-99e0-793186ff3aa6</webElementGuid>
+      <webElementGuid>0e6ce159-425e-48bb-a95a-bc07f16f26f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

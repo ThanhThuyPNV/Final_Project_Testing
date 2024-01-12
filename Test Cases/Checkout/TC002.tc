@@ -5,4 +5,52 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b78aa2ac-77bf-4987-9d3a-aecad33da3c7</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>a677d890-24e5-4601-aa0a-184473cf1baa</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data_test</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>a677d890-24e5-4601-aa0a-184473cf1baa</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>name</value>
+      <variableId>19bbaeb6-739a-4d42-9622-9d79639b6e46</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a677d890-24e5-4601-aa0a-184473cf1baa</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>phone</value>
+      <variableId>43c96c6e-bbc3-4ba0-9f3f-a7f2183bfad7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>a677d890-24e5-4601-aa0a-184473cf1baa</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>address</value>
+      <variableId>5d4f9ae4-c09e-4ebe-ae28-986c2b980410</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ha'</defaultValue>
+      <description></description>
+      <id>19bbaeb6-739a-4d42-9622-9d79639b6e46</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'08739283682'</defaultValue>
+      <description></description>
+      <id>43c96c6e-bbc3-4ba0-9f3f-a7f2183bfad7</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'101B, Lê Hữu Trác'</defaultValue>
+      <description></description>
+      <id>5d4f9ae4-c09e-4ebe-ae28-986c2b980410</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
 </TestCaseEntity>

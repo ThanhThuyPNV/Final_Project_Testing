@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Verify that user cann't login with valid email and incorrect password</description>
+   <description>Verify that user cann't login with invalid phone number and correct password</description>
    <name>LG_07</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>314153a7-835c-429e-a09a-d5d091b34e91</testCaseGuid>
+   <testCaseGuid>f0e96cd4-3dea-4c55-96d0-261ade433ac4</testCaseGuid>
 </TestCaseEntity>
