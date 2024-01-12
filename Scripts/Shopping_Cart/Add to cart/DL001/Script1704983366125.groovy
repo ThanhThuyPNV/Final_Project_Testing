@@ -39,4 +39,6 @@ WebUI.click(findTestObject('Object Repository/Shopping_Cart/DL001/Page_Robot ht 
 
 WebUI.click(findTestObject('Object Repository/Shopping_Cart/DL001/Page_T lnh Hitachi Inverter 464 lt Multi Door HR4N7520DSWDXVN - META.vn/button_Xa'))
 
-WebUI.closeBrowser()
+System.sleep(2000)
+
+//WebUI.closeBrowser()

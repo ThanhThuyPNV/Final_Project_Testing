@@ -17,14 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.openBrowser('')
+
 WebUI.navigateToUrl('https://meta.vn/')
+
 WebUI.click(findTestObject('Object Repository/Login/Page_Mua hng online, Mua sm trc tuyn gi tt nht (1)/Page_Mua hng online, Mua sm trc tuyn gi tt nht/i_ng nhp_fa fa-user'))
+
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/a_ng nhp bng email'))
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-u actived'), 'phuong.zorum24student.passerellesnumeriques.org')
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-p'), 'Evr8jbf0RWTxDTjuNeHdNw==')
+
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-u actived'), 
+    'phuong.zorum24student.passerellesnumeriques.org')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-p'), 
+    'BUOdx2zT+qmIabtanWOD6w==')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/a_ng nhp'))
-
 

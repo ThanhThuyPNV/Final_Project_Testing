@@ -4,53 +4,5 @@
    <name>TC005</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>5e75a304-c577-4106-8105-3685484ff419</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>54ec83e6-8637-4e2c-b732-68742efd303a</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/Data_test</testDataId>
-   </testDataLinks>
-   <variableLinks>
-      <testDataLinkId>54ec83e6-8637-4e2c-b732-68742efd303a</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>name</value>
-      <variableId>34c0c33a-77e1-4988-91b1-dabcb68d5757</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId>54ec83e6-8637-4e2c-b732-68742efd303a</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>phone</value>
-      <variableId>dea13217-ae2a-4507-9f80-e8dcbd066cae</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId>54ec83e6-8637-4e2c-b732-68742efd303a</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>address</value>
-      <variableId>11c23965-238c-4ace-a725-0d706618eeb8</variableId>
-   </variableLinks>
-   <variable>
-      <defaultValue>'ha'</defaultValue>
-      <description></description>
-      <id>34c0c33a-77e1-4988-91b1-dabcb68d5757</id>
-      <masked>false</masked>
-      <name>name</name>
-   </variable>
-   <variable>
-      <defaultValue>0</defaultValue>
-      <description></description>
-      <id>dea13217-ae2a-4507-9f80-e8dcbd066cae</id>
-      <masked>false</masked>
-      <name>phone</name>
-   </variable>
-   <variable>
-      <defaultValue>'101B, lê hữu trác'</defaultValue>
-      <description></description>
-      <id>11c23965-238c-4ace-a725-0d706618eeb8</id>
-      <masked>false</masked>
-      <name>address</name>
-   </variable>
+   <testCaseGuid>f950b730-ab82-4508-be14-bd555954c8ca</testCaseGuid>
 </TestCaseEntity>

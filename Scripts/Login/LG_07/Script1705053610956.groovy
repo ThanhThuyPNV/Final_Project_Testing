@@ -23,10 +23,13 @@ WebUI.navigateToUrl('https://meta.vn/')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Mua hng online, Mua sm trc tuyn gi tt nht/i_fa fa-user'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-u actived'), '0332 427 573')
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-u actived'), 
+    '0332427588772')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-p'), 'Evr8jbf0RWTxDTjuNeHdNw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_form-input form-p'), 
+    'Evr8jbf0RWTxDTjuNeHdNw==')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/i_fa fa-eye'))
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/a_ng nhp'))
+

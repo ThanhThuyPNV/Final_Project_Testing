@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Login/Page_Sa tm Chnh hng, Gi tt  
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Sa tm tho dc Nature Queen (100ml) - META.vn/button_t mua'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_phone'), '9763572536')
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_phone'), phone)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/span_TnhThnh ph'))
 
@@ -35,7 +35,7 @@ WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tu
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/li_Phng Phc M'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_address'), '101B, lê hữu trác')
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_address'), address)
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/div_Giao hng v thu tin ti nh (COD)'))
 

@@ -18,17 +18,17 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-WebUI.openBrowser('')
+//WebUI.openBrowser('')
+//
+//WebUI.navigateToUrl('https://meta.vn/sua-tam-c913')
+//
+//WebUI.click(findTestObject('Object Repository/Login/Page_Sa tm Chnh hng, Gi tt  META.vn/img_thumb-list is-thumb'))
 
-WebUI.navigateToUrl('https://meta.vn/sua-tam-c913')
+WebUI.click(findTestObject('Object Repository/Login/button_t mua'))
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Sa tm Chnh hng, Gi tt  META.vn/img_thumb-list is-thumb'))
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_name'), 'ha')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Sa tm tho dc Nature Queen (100ml) - META.vn/button_t mua'))
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_name'), name)
-
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_phone'), phone)
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_phone'), '0837538786')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/span_TnhThnh ph'))
 
@@ -42,7 +42,7 @@ WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tu
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/li_Phng Phc M'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_address'), address)
+WebUI.setText(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/input_address'), '101b Le Huu Trac')
 
 WebUI.click(findTestObject('Object Repository/Login/Page_META.vn - Mua sm trc tuyn/div_Giao hng v thu tin ti nh (COD)'))
 

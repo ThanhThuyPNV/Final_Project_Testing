@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>ADD004</name>
+   <name>STC_05</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>c4be5ed3-c71c-4990-8c46-68a1cd7c938f</testCaseGuid>
+   <testCaseGuid>5585e32a-97d6-42fa-b62c-90380912840c</testCaseGuid>
 </TestCaseEntity>
